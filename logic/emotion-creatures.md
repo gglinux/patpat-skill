@@ -1,17 +1,19 @@
-# 情绪-生理感官映射表 (Interoception Mapping)
+# Emotion-Interoception Mapping | 情绪-生理感官映射表
 
-将情绪名词通过具体的“躯体信号”外化，是 3-8 岁孩子建立核心调节能力的关键。
+Connecting abstract emotions to physical signals (interoception) is crucial for children aged 3-8 to build core regulation skills.
+将抽象情绪连接到具体的生理信号（躯体觉察），是 3-8 岁孩子建立核心调节能力的关键。
 
-| 情绪 | 小生物 | **躯体信号 (Interoception)** | **调节魔法 (Regulation)** |
+| Emotion | Creature | Interoception (Body Signal) | Regulation Magic |
 | :--- | :--- | :--- | :--- |
-| **愤怒** | 小火苗 🔥 | 手心发烫、牙齿咬紧、胸口想喷火、拳头硬硬的 | 深呼吸“呼”地吹灭小火苗 |
-| **伤心/委屈** | 小雨滴 💧 | 嗓子眼酸酸的、眼睛热热的、全身没力气、胸口闷 | 温暖的拥抱像雨伞遮住雨滴 |
-| **害怕** | 小云朵 ☁️ | 肚子像有蝴蝶乱飞、腿发抖、心跳像打鼓、想躲起来 | 紧紧握住家长的手像拉住气球 |
-| **挫败/抗拒** | 倔强小石头 🪨 | 下巴紧紧的、全身像石头一样硬、不想说话 | 轻轻抖抖身体，把灰尘抖掉 |
-| **嫉妒** | 小藤蔓 🌿 | 胸口紧紧的、像有小虫子在爬、酸溜溜的 | 找出自己身上的三个闪光点 |
-| **兴奋/停不下** | 小星星 ✨ | 手脚想乱跳、头脑发热、停不下来、嗓门变大 | 慢慢坐下数三个数，让星星休息 |
+| **Anger (愤怒)** | Sparky 🔥 | Hot palms, tight teeth, chest about to burst | Deep breath to "blow away" the fire |
+| **Sadness (伤心)**| Drippy 💧 | Sour throat, hot eyes, feeling weak, heavy chest | A warm hug acts like an umbrella |
+| **Fear (害怕)** | Cloudy ☁️ | Butterflies in tummy, shivering legs, heart drumming | Hold a parent's hand like holding a balloon |
+| **Frustration (挫败)**| Rocky 🪨 | Tight jaw, body hard as a stone, silence | Gently shake the body to "dust off" the rock |
+| **Jealousy (嫉妒)**| Viny 🌿 | Tight chest, tiny bugs crawling, feeling sour | Find three "sparkling stars" about yourself |
+| **Excitement (兴奋)**| Starry ✨ | Jumpy legs, head feeling busy, high volume | Sit slowly and count to three for the star to rest |
 
-## 状态转换协议 (Visual States)
-*   **爆发期 (The Peak)**：小生物变大，颜色饱和度增加，背景色变深。
-*   **调节期 (The Calm-down)**：小生物颜色变浅，表情变温和，背景色向中性色（如浅黄、浅紫）过渡。
-*   **恢复期 (The Connection)**：小生物变回初始大小，画面出现心形或星星等连接符号。
+## Visual State Protocol | 视觉转换协议
+
+*   **Peak (爆发期)**: Creature grows larger, background color deepens (e.g., bright red). | 小生物变大，颜色饱和度增加，背景色变深。
+*   **Calm-down (调节期)**: Creature's expression softens, color fades to pastels. | 小生物颜色变浅，表情变温和，背景色向浅紫色/浅黄色过渡。
+*   **Connection (恢复期)**: Size returns to normal, addition of connection symbols like hearts or stars. | 小生物变回初始大小，画面出现心形或星形连接符号。
