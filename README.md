@@ -1,7 +1,5 @@
 # 摸摸头 (PatPat) | AI Co-Regulation Skill for Kids
 
-[![GitHub license](https://img.shields.io/github/license/gglinux/patpat-skill)](https://github.com/gglinux/patpat-skill/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/gglinux/patpat-skill)](https://github.com/gglinux/patpat-skill/stargazers)
 
 **PatPat (摸摸头)** is an AI-powered interactive storybook skill for kids aged 3-8. It transforms negative emotional moments into magical, choice-based narratives that focus on **Co-regulation** and **Interoception**.
 
