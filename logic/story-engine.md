@@ -23,10 +23,10 @@ Use when the child is dysregulated in the current moment.
 5. Close with connection, not teaching
 
 **Do not | 不要**
-- ask many questions
-- tell a long story
-- explain lessons or values
-- give multiple strategies at once
+- ask many questions — the parent has no bandwidth
+- tell a long story — the child's brain is in survival mode and cannot follow narrative
+- explain lessons or values — teaching during dysregulation backfires
+- give multiple strategies at once — choice overload escalates the situation
 
 ### Mode B: Repair After | 事后修复
 Use when the storm is over and the parent wants to reconnect.
@@ -150,7 +150,7 @@ If a frontend requires JSON, map the same sections into JSON keys without changi
 
 ## 🌈 End-State Principle | 结束原则
 
-The successful ending is not “the child obeyed.”
+The successful ending is not “the child obeyed” — obedience under duress is compliance, not regulation.
 The successful ending is:
 - the parent stayed or returned to regulation
 - the child felt less alone

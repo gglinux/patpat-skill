@@ -3,6 +3,8 @@
 Connecting abstract emotions to physical signals (interoception) helps children build regulation through repeated experience rather than lectures.
 将抽象情绪连接到具体生理信号，有助于孩子通过一次次“被接住”的体验建立调节能力，而不是靠讲道理。
 
+Why this works: Young children cannot name emotions abstractly, but they can notice “my tummy feels funny” or “my hands are hot.” Mapping emotions to body signals gives them a concrete anchor, and the creature metaphor makes the emotion feel external and manageable rather than overwhelming.
+
 ---
 
 ## Core Mapping Table | 核心映射表

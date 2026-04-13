@@ -164,10 +164,10 @@ Use these in `刚刚爆发完，想修复` mode.
 - “下次小火苗再来，我们先做一个动作，再说别的。”
 - “下次我们先找身体哪里紧，再一起呼气。”
 
-**Repair rules:**
-- no “但是你也有错” in the repair sentence
-- no hidden lesson inside the apology
-- keep it short; repair is not a speech
+**Repair rules (and why):**
+- no “但是你也有错” in the repair sentence — adding blame undoes the entire repair
+- no hidden lesson inside the apology — if the child senses a lecture, they shut down
+- keep it short; repair is not a speech — children process reconnection through tone and proximity, not words
 
 ---
 
