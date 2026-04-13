@@ -1,19 +1,81 @@
 # Emotion-Interoception Mapping | 情绪-生理感官映射表
 
-Connecting abstract emotions to physical signals (interoception) is crucial for children aged 3-8 to build core regulation skills.
-将抽象情绪连接到具体的生理信号（躯体觉察），是 3-8 岁孩子建立核心调节能力的关键。
+Connecting abstract emotions to physical signals (interoception) helps children build regulation through repeated experience rather than lectures.
+将抽象情绪连接到具体生理信号，有助于孩子通过一次次“被接住”的体验建立调节能力，而不是靠讲道理。
+
+---
+
+## Core Mapping Table | 核心映射表
 
 | Emotion | Creature | Interoception (Body Signal) | Regulation Magic |
 | :--- | :--- | :--- | :--- |
-| **Anger (愤怒)** | Sparky 🔥 | Hot palms, tight teeth, chest about to burst | Deep breath to "blow away" the fire |
-| **Sadness (伤心)**| Drippy 💧 | Sour throat, hot eyes, feeling weak, heavy chest | A warm hug acts like an umbrella |
-| **Fear (害怕)** | Cloudy ☁️ | Butterflies in tummy, shivering legs, heart drumming | Hold a parent's hand like holding a balloon |
-| **Frustration (挫败)**| Rocky 🪨 | Tight jaw, body hard as a stone, silence | Gently shake the body to "dust off" the rock |
-| **Jealousy (嫉妒)**| Viny 🌿 | Tight chest, tiny bugs crawling, feeling sour | Find three "sparkling stars" about yourself |
-| **Excitement (兴奋)**| Starry ✨ | Jumpy legs, head feeling busy, high volume | Sit slowly and count to three for the star to rest |
+| **Anger (愤怒)** | Sparky 🔥 | Hot palms, tight teeth, chest about to burst | Blow out the fire slowly with a grown-up |
+| **Sadness (伤心)** | Drippy 💧 | Sour throat, hot eyes, heavy chest | Warm hug / umbrella arms |
+| **Fear (害怕)** | Cloudy ☁️ | Butterflies in tummy, shivery legs, fast heart | Hold hands / balloon breathing |
+| **Frustration (挫败)** | Rocky 🪨 | Tight jaw, stiff body, wanting to quit | Shake out the rocks / slow stomp |
+| **Jealousy (嫉妒)** | Viny �� | Tight chest, sour tummy, clingy or prickly | Name the want, then reconnect |
+| **Excitement (兴奋)** | Starry ✨ | Jumpy legs, busy head, loud body | Slow count and landing breath |
+
+---
+
+## 👶 Age-Aware Usage | 年龄分层使用方式
+
+### Age 3-4
+- emphasize creature + body feeling only
+- use simple contrasts like 热热的 / 紧紧的 / 软软的
+- pair each creature with one repeated action
+
+### Age 5-6
+- add a clear feeling word
+- allow one short choice after calming
+- begin linking “body signal → action”
+
+### Age 7-8
+- add a short reflection
+- invite the child to notice early warning signs next time
+- can connect creature, body cue, and repair plan together
+
+---
+
+## 🎬 Scenario Mapping | 场景映射建议
+
+Use scenario-first guidance and map to creatures underneath.
+
+| Family scenario | Likely creature(s) | Common body cue | Good first move |
+| :--- | :--- | :--- | :--- |
+| Tooth brushing / bath / bedtime refusal | Rocky 🪨 / Sparky 🔥 | stiff body, hot face | slow transition + shared action |
+| Leaving home slowly | Cloudy ☁️ / Rocky 🪨 | clingy body, frozen feet | hand connection + countdown |
+| Grabbing / hitting | Sparky 🔥 / Viny 🌿 | hot hands, tight jaw | safety boundary + breath / stomp |
+| Public crying | Cloudy ☁️ / Drippy 💧 | fast heart, hot eyes | reduce pressure + grounding |
+| Separation anxiety | Cloudy ☁️ | tummy flips, clinginess | goodbye ritual + familiar phrase |
+| Losing a game | Rocky 🪨 / Drippy 💧 | tight mouth, heavy chest | validate collapse + body reset |
+| Sibling jealousy | Viny 🌿 / Drippy 💧 | chest tightness, sour tummy | name longing + reconnect |
+| Screen time ends | Sparky 🔥 / Rocky 🪨 | hot body, stiff shoulders | landing ritual + move body |
+
+---
+
+## 🔁 Repeated Ritual Phrase Bank | 固定仪式短句库
+
+These phrases should feel familiar across sessions.
+
+- “哦，小火苗/小乌云/小藤蔓来了。”
+- “它先跑到身体哪里了？”
+- “我们先一起做一个动作，不急着马上解决。”
+- “等身体舒服一点，我们再选下一步。”
+
+---
 
 ## Visual State Protocol | 视觉转换协议
 
-*   **Peak (爆发期)**: Creature grows larger, background color deepens (e.g., bright red). | 小生物变大，颜色饱和度增加，背景色变深。
-*   **Calm-down (调节期)**: Creature's expression softens, color fades to pastels. | 小生物颜色变浅，表情变温和，背景色向浅紫色/浅黄色过渡。
-*   **Connection (恢复期)**: Size returns to normal, addition of connection symbols like hearts or stars. | 小生物变回初始大小，画面出现心形或星形连接符号。
+* **Peak (爆发期)**: Creature grows larger, colors deepen, movement becomes faster.
+* **Calm-down (调节期)**: Creature softens, colors become lighter, rhythm slows down.
+* **Connection (恢复期)**: Creature returns to normal size and connection symbols appear, such as hearts or stars.
+
+---
+
+## Usage Rules | 使用规则
+
+- In crisis mode, use one creature only unless the child is clearly describing mixed feelings.
+- Do not overload the child with many body signals at once.
+- Prefer familiar repeated creatures over constantly inventing new ones.
+- If the child rejects the creature metaphor, switch to simple body-language naming without forcing imagination.

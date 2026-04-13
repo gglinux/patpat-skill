@@ -1,39 +1,49 @@
 # 摸摸头 (PatPat) | AI Co-Regulation Skill for Kids
 
+**PatPat (摸摸头)** is an AI-powered co-regulation skill for children aged 3-8 and their parents. It helps families through emotional storms, post-conflict repair, and everyday emotional practice with a parent-first, child-supportive flow.
 
-**PatPat (摸摸头)** is an AI-powered interactive storybook skill for kids aged 3-8. It transforms negative emotional moments into magical, choice-based narratives that focus on **Co-regulation** and **Interoception**.
-
-「摸摸头 (PatPat)」是一款面向 3-8 岁儿童的 AI 互动绘本技能书。它将负面情绪时刻转化为基于选择的魔法故事，核心关注**共同调节 (Co-regulation)** 与**躯体觉察 (Interoception)**。
+「摸摸头 (PatPat)」是一款服务 3-8 岁儿童及家长的 AI 共同调节技能。它覆盖情绪爆发当下、事后修复、以及平时练习三个场景，目标是先托住家长，再托住孩子，帮助家庭形成可重复使用的情绪支持仪式。
 
 ---
 
 ## ✨ Key Features | 核心特性
 
-- **Externalization (叙事外化)**: Emotions are personified as "Emotion Creatures" (e.g., Sparky the Fire 🔥).
-- **Interoception Mapping (躯体映射)**: Connecting abstract feelings to physical sensations (e.g., hot palms, tight tummy).
-- **Co-regulation (共同调节)**: Empowering parents to be the regulator for the child, providing specific sync actions.
-- **De-stigmatization (去道德化)**: Validating natural impulses while guiding towards adaptive behaviors.
+- **Three entry modes (三大入口模式)**: `正在爆发` / `刚刚爆发完，想修复` / `平时练习`
+- **Minimal-input triage (低负担分流)**: Ask only age band, visible state, and parent regulation when needed.
+- **Parent-first coaching (家长优先托举)**: Fixed `Do now / Say now / Avoid now` scaffolding.
+- **Repeatable family ritual (固定家庭仪式)**: Emotion creature → body cue → one shared action → next step.
+- **Scenario-first guidance (场景优先)**: Common parenting moments map to emotional mechanisms without moralizing.
+- **Risk boundaries (风险边界)**: Green / Yellow / Red routing with safer escalation rules.
 
 ---
 
 ## 🛠️ Repository Structure | 仓库结构
 
-- `SKILL.md`: The core logic and instructions for AI Agents (English Optimized).
-- `logic/story-engine.md`: JSON Schema and narrative rules for interactive stories.
-- `logic/emotion-creatures.md`: Mapping of emotions to physical sensations and visual states.
-- `logic/parent-coach.md`: Scaffolding guide for parents (Self-rescue & Sync actions).
+- `SKILL.md`: Core instruction set for agent behavior and routing.
+- `logic/story-engine.md`: Mode-specific narrative rules, age bands, ritual structure, and output contract.
+- `logic/emotion-creatures.md`: Emotion-creature-body mapping plus scenario guidance.
+- `logic/parent-coach.md`: Canonical parent support guide and single source of truth for all normative parent-facing guidance.
+- `parent-coach.md`: Lightweight navigation alias for discoverability; do not maintain a second full copy there.
 
 ---
 
 ## 🤖 Usage | 如何使用
 
-This skill is designed to be ingested by advanced LLMs (like GPT-4, DeepSeek, Claude). It provides a structured brain for generating emotional regulation content.
+1. Ingest `SKILL.md` into the agent system prompt.
+2. Use the `logic/` files as the operational ruleset.
+3. Route each request into one of the three entry modes before generating content.
+4. Keep responses structured as: parent guidance → child content → shared action → next step.
+5. If a frontend needs structured rendering, map the same sections into JSON.
 
-该技能旨在被大语言模型吸收，为生成情绪调节内容提供结构化的“大脑”。
+---
 
-1.  **Ingest** the `SKILL.md` into your Agent's system prompt.
-2.  **Refer** to the `logic/` folder for specific protocol constraints.
-3.  **Generate** JSON output for front-end rendering (Web/Mini Program).
+## 🎯 Product Intent | 产品意图
+
+PatPat is not here to replace parents or judge them.
+It is a lightweight emotional scaffolding tool that helps families:
+- get through hard moments with less shame
+- repair connection after conflict
+- practice emotional skills before the next storm
 
 ---
 
