@@ -22,8 +22,8 @@
 - `SKILL.md`: Core instruction set for agent behavior and routing.
 - `logic/story-engine.md`: Mode-specific narrative rules, age bands, ritual structure, and output contract.
 - `logic/emotion-creatures.md`: Emotion-creature-body mapping plus scenario guidance.
-- `logic/parent-coach.md`: Canonical parent support guide and single source of truth.
-- `parent-coach.md`: Lightweight pointer for readers looking for the parent coach guide.
+- `logic/parent-coach.md`: Canonical parent support guide and single source of truth for all normative parent-facing guidance.
+- `parent-coach.md`: Lightweight navigation alias for discoverability; do not maintain a second full copy there.
 
 ---
 
