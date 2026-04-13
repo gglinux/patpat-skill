@@ -3,7 +3,7 @@
 The canonical parent support guide lives here:
 家长支持能力的正式版本请查看：
 
-- `/home/runner/work/patpat-skill/patpat-skill/logic/parent-coach.md`
+- `./logic/parent-coach.md`
 
 Use that file as the single source of truth for:
 - quick triage

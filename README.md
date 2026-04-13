@@ -19,17 +19,17 @@
 
 ## 🛠️ Repository Structure | 仓库结构
 
-- `/home/runner/work/patpat-skill/patpat-skill/SKILL.md`: Core instruction set for agent behavior and routing.
-- `/home/runner/work/patpat-skill/patpat-skill/logic/story-engine.md`: Mode-specific narrative rules, age bands, ritual structure, and output contract.
-- `/home/runner/work/patpat-skill/patpat-skill/logic/emotion-creatures.md`: Emotion-creature-body mapping plus scenario guidance.
-- `/home/runner/work/patpat-skill/patpat-skill/logic/parent-coach.md`: Canonical parent support guide and single source of truth.
-- `/home/runner/work/patpat-skill/patpat-skill/parent-coach.md`: Lightweight pointer for readers looking for the parent coach guide.
+- `SKILL.md`: Core instruction set for agent behavior and routing.
+- `logic/story-engine.md`: Mode-specific narrative rules, age bands, ritual structure, and output contract.
+- `logic/emotion-creatures.md`: Emotion-creature-body mapping plus scenario guidance.
+- `logic/parent-coach.md`: Canonical parent support guide and single source of truth.
+- `parent-coach.md`: Lightweight pointer for readers looking for the parent coach guide.
 
 ---
 
 ## 🤖 Usage | 如何使用
 
-1. Ingest `/home/runner/work/patpat-skill/patpat-skill/SKILL.md` into the agent system prompt.
+1. Ingest `SKILL.md` into the agent system prompt.
 2. Use the `logic/` files as the operational ruleset.
 3. Route each request into one of the three entry modes before generating content.
 4. Keep responses structured as: parent guidance → child content → shared action → next step.
