@@ -1,47 +1,51 @@
-# 故事引擎逻辑规则 (Story Engine Logic)
+# 故事引擎逻辑规则 2.0 (Story Engine Logic)
 
 ## 1. 结构化输出协议
 Agent 生成的所有故事节点必须严格遵守以下 JSON 格式：
 
 ```json
 {
-  "node_id": "unique_string",
-  "text": "针对孩子的共情叙述（不超过150字）",
-  "mood_color": "#HEX_COLOR",
-  "emoji": "代表当前情绪的 Emoji",
+  "node_id": "unique_id",
+  "text": "针对孩子的叙述（温暖、生动、魔法感，不超过150字）",
+  "body_sensation": {
+    "location": "识别到的身体部位（如：胸口、手心、肚子）",
+    "feeling": "感官描述（如：紧紧的、发烫、想乱跳）"
+  },
   "emotion_creature": {
-    "name": "小生物名字",
-    "emoji": "🔥/💧/☁️/🪨",
-    "status": "当前状态描述（如：正在喷火、正在发抖）"
+    "name": "小火苗/小雨滴等",
+    "emoji": "🔥/💧/☁️/🪨/🌿/🐌",
+    "status": "当前动态（如：正在变大、正在发抖、正在变硬）"
   },
   "choices": [
     {
       "id": "A",
-      "text": "冲动反应/自然后果",
+      "text": "本能冲动（需描述其‘快感’和‘遗憾’）",
       "icon": "😤",
-      "type": "natural_consequence"
+      "type": "natural_impulse"
     },
     {
       "id": "B",
-      "text": "调节技巧/替代行为",
+      "text": "同步调节技巧（由家长发起的动作）",
       "icon": "🌊",
-      "type": "emotional_regulation"
+      "type": "co_regulation"
     }
   ],
+  "co_regulation_action": "亲子需共同完成的一个10秒动作协议",
   "parent_coach": {
-    "empathy": "家长共情话术",
-    "boundary": "家长边界话术",
-    "action": "即时动作指导",
-    "repair_after": "事后修复建议"
+    "pre_check": "针对当前场景，家长如何平复自己的第一个念头",
+    "empathy": "‘我看到你现在……是因为……这一定很难受。’",
+    "boundary": "‘你可以生气，但我们不能……’",
+    "action": "家长如何带动孩子完成 co_regulation_action",
+    "repair_after": "情绪平静后，一段修复连接的悄悄话"
   }
 }
 ```
 
 ## 2. 叙事质量要求
-*   **视角**：使用第二人称“你”，增强代入感。
-*   **语言**：简单、形象、充满感官描述（例如“肚子里像塞了一个大气球”）。
-*   **节奏**：一次只处理一个情绪冲突点。
+*   **躯体优先**：先描述身体感受，再引导到情绪名词。
+*   **去道德化**：选项 A 的语气应是“你确实很想……但这可能会让……”。
+*   **魔法仪式**：调节动作（选项 B）应被赋予“魔法”意义，帮助孩子获得掌控感。
 
-## 3. 结局处理
-*   **结局 A (Learning through failure)**：温和地展示冲动带来的遗憾，并提问：“如果下次重来，我们可以找谁帮忙呢？”
-*   **结局 B (Empowerment)**：热烈庆祝孩子掌握了“魔法”，并给予虚拟奖牌（Emoji）。
+## 3. 分级策略
+*   **3-5岁**：语言极其简短，重点在于“抱抱”和“呼吸”。
+*   **6-8岁**：增加逻辑因果，解释为什么调节技巧有效。
