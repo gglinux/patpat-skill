@@ -37,7 +37,7 @@
 
 ---
 
-## �� Product Intent | 产品意图
+## 🎯 Product Intent | 产品意图
 
 PatPat is not here to replace parents or judge them.
 It is a lightweight emotional scaffolding tool that helps families:
