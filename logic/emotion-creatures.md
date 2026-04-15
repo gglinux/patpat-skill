@@ -1,83 +1,82 @@
-# Emotion-Interoception Mapping | 情绪-生理感官映射表
+# 情绪小生物 — 情绪与身体信号映射表
 
-Connecting abstract emotions to physical signals (interoception) helps children build regulation through repeated experience rather than lectures.
-将抽象情绪连接到具体生理信号，有助于孩子通过一次次“被接住”的体验建立调节能力，而不是靠讲道理。
+将抽象情绪连接到具体的身体信号（内感受觉察），有助于孩子通过一次次"被接住"的体验建立调节能力，而不是靠讲道理。
 
-Why this works: Young children cannot name emotions abstractly, but they can notice “my tummy feels funny” or “my hands are hot.” Mapping emotions to body signals gives them a concrete anchor, and the creature metaphor makes the emotion feel external and manageable rather than overwhelming.
+为什么有效：幼儿无法抽象地命名情绪，但他们能注意到"肚子怪怪的"或"手热热的"。将情绪映射到身体信号给了他们一个具体的锚点，而小生物的比喻让情绪变得外在、可管理，而不是令人崩溃。
 
 ---
 
-## Core Mapping Table | 核心映射表
+## 核心映射表
 
-| Emotion | Creature | Interoception (Body Signal) | Regulation Magic |
+| 情绪 | 小生物 | 身体信号（内感受） | 调节魔法 |
 | :--- | :--- | :--- | :--- |
-| **Anger (愤怒)** | Sparky 🔥 | Hot palms, tight teeth, chest about to burst | Blow out the fire slowly with a grown-up |
-| **Sadness (伤心)** | Drippy 💧 | Sour throat, hot eyes, heavy chest | Warm hug / umbrella arms |
-| **Fear (害怕)** | Cloudy ☁️ | Butterflies in tummy, shivery legs, fast heart | Hold hands / balloon breathing |
-| **Frustration (挫败)** | Rocky 🪨 | Tight jaw, stiff body, wanting to quit | Shake out the rocks / slow stomp |
-| **Jealousy (嫉妒)** | Viny �� | Tight chest, sour tummy, clingy or prickly | Name the want, then reconnect |
-| **Excitement (兴奋)** | Starry ✨ | Jumpy legs, busy head, loud body | Slow count and landing breath |
+| **愤怒** | 小火苗 🔥 | 手心发烫、牙齿咬紧、胸口要炸开 | 和大人一起慢慢把火吹灭 |
+| **伤心** | 小水滴 💧 | 喉咙发酸、眼睛发烫、胸口沉沉的 | 温暖拥抱 / 雨伞臂 |
+| **害怕** | 小乌云 ☁️ | 肚子里有蝴蝶、腿发抖、心跳好快 | 牵手 / 气球呼吸 |
+| **挫败** | 小石头 🪨 | 下巴发紧、身体僵硬、想放弃 | 抖掉石头 / 慢慢踩地 |
+| **嫉妒** | 小藤蔓 🌿 | 胸口发紧、肚子酸酸的、想黏人或变刺 | 说出想要的，再重新连接 |
+| **兴奋** | 小星星 ✨ | 腿想跳、脑袋转个不停、身体声音好大 | 慢慢数数 + 落地呼吸 |
 
 ---
 
-## 👶 Age-Aware Usage | 年龄分层使用方式
+## 👶 年龄分层使用方式
 
-### Age 3-4
-- emphasize creature + body feeling only
-- use simple contrasts like 热热的 / 紧紧的 / 软软的
-- pair each creature with one repeated action
+### 3-4 岁
+- 只强调小生物 + 身体感觉
+- 使用简单的对比词：热热的 / 紧紧的 / 软软的
+- 每个小生物搭配一个固定动作
 
-### Age 5-6
-- add a clear feeling word
-- allow one short choice after calming
-- begin linking “body signal → action”
+### 5-6 岁
+- 加入一个明确的情绪词
+- 平静后允许一个简短选择
+- 开始建立"身体信号 → 动作"的连接
 
-### Age 7-8
-- add a short reflection
-- invite the child to notice early warning signs next time
-- can connect creature, body cue, and repair plan together
+### 7-8 岁
+- 加入简短反思
+- 邀请孩子下次注意早期预警信号
+- 可以将小生物、身体信号和修复计划串联起来
 
 ---
 
-## 🎬 Scenario Mapping | 场景映射建议
+## 🎬 场景映射建议
 
-Use scenario-first guidance and map to creatures underneath.
+从场景出发，底层映射到小生物。
 
-| Family scenario | Likely creature(s) | Common body cue | Good first move |
+| 家庭场景 | 可能的小生物 | 常见身体信号 | 建议第一步 |
 | :--- | :--- | :--- | :--- |
-| Tooth brushing / bath / bedtime refusal | Rocky 🪨 / Sparky 🔥 | stiff body, hot face | slow transition + shared action |
-| Leaving home slowly | Cloudy ☁️ / Rocky 🪨 | clingy body, frozen feet | hand connection + countdown |
-| Grabbing / hitting | Sparky 🔥 / Viny 🌿 | hot hands, tight jaw | safety boundary + breath / stomp |
-| Public crying | Cloudy ☁️ / Drippy 💧 | fast heart, hot eyes | reduce pressure + grounding |
-| Separation anxiety | Cloudy ☁️ | tummy flips, clinginess | goodbye ritual + familiar phrase |
-| Losing a game | Rocky 🪨 / Drippy 💧 | tight mouth, heavy chest | validate collapse + body reset |
-| Sibling jealousy | Viny 🌿 / Drippy 💧 | chest tightness, sour tummy | name longing + reconnect |
-| Screen time ends | Sparky 🔥 / Rocky 🪨 | hot body, stiff shoulders | landing ritual + move body |
+| 不肯刷牙 / 洗澡 / 睡觉 | 小石头 🪨 / 小火苗 🔥 | 身体僵硬、脸发烫 | 慢过渡 + 一起做动作 |
+| 出门前磨蹭 | 小乌云 ☁️ / 小石头 🪨 | 黏人、脚不动 | 牵手连接 + 倒数 |
+| 抢东西 / 打人 | 小火苗 🔥 / 小藤蔓 🌿 | 手发烫、下巴紧 | 安全边界 + 呼吸/踩地 |
+| 在公共场合哭闹 | 小乌云 ☁️ / 小水滴 💧 | 心跳快、眼睛烫 | 减少围观压力 + 落地 |
+| 分离焦虑 | 小乌云 ☁️ | 肚子翻腾、黏人 | 告别仪式 + 熟悉短语 |
+| 输了游戏 | 小石头 🪨 / 小水滴 💧 | 嘴巴紧、胸口沉 | 认可崩溃 + 身体重置 |
+| 兄弟姐妹嫉妒 | 小藤蔓 🌿 / 小水滴 💧 | 胸口紧、肚子酸 | 说出渴望 + 重新连接 |
+| 屏幕时间结束 | 小火苗 🔥 / 小石头 🪨 | 身体发烫、肩膀僵 | 缓冲仪式 + 活动身体 |
 
 ---
 
-## 🔁 Repeated Ritual Phrase Bank | 固定仪式短句库
+## 🔁 固定仪式短句库
 
-These phrases should feel familiar across sessions.
+这些短句应在多次使用中保持一致，让孩子越来越熟悉。
 
-- “哦，小火苗/小乌云/小藤蔓来了。”
-- “它先跑到身体哪里了？”
-- “我们先一起做一个动作，不急着马上解决。”
-- “等身体舒服一点，我们再选下一步。”
-
----
-
-## Visual State Protocol | 视觉转换协议
-
-* **Peak (爆发期)**: Creature grows larger, colors deepen, movement becomes faster.
-* **Calm-down (调节期)**: Creature softens, colors become lighter, rhythm slows down.
-* **Connection (恢复期)**: Creature returns to normal size and connection symbols appear, such as hearts or stars.
+- "哦，小火苗/小乌云/小藤蔓来了。"
+- "它先跑到身体哪里了？"
+- "我们先一起做一个动作，不急着马上解决。"
+- "等身体舒服一点，我们再选下一步。"
 
 ---
 
-## Usage Rules | 使用规则
+## 视觉状态协议
 
-- In crisis mode, use one creature only unless the child is clearly describing mixed feelings.
-- Do not overload the child with many body signals at once.
-- Prefer familiar repeated creatures over constantly inventing new ones.
-- If the child rejects the creature metaphor, switch to simple body-language naming without forcing imagination.
+* **爆发期**：小生物变大、颜色加深、动作加快。
+* **调节期**：小生物变柔和、颜色变浅、节奏变慢。
+* **恢复期**：小生物恢复正常大小，出现连接符号（如爱心或星星）。
+
+---
+
+## 使用规则
+
+- 危机模式下只使用一个小生物，除非孩子明确描述了混合情绪。
+- 不要一次给孩子太多身体信号。
+- 优先使用熟悉的、反复出现的小生物，而非不断创造新的。
+- 如果孩子拒绝小生物的比喻，切换到简单的身体语言描述，不要强迫想象。
