@@ -38,10 +38,13 @@ Use when the storm is over and the parent wants to reconnect.
 - prepare one future anchor
 
 **Flow | 流程**
-1. validate the parent's hard moment
-2. give a low-shame repair script
-3. help the child name what happened
-4. agree on one small ritual for next time
+1. validate the parent's hard moment — recognize guilt/self-blame if present
+2. if parent is still in self-blame: run post-event self-compassion (see `parent-coach.md` §3.5) before any repair script
+3. when parent is stabilized: give a low-shame repair script
+4. help the child name what happened
+5. agree on one small ritual for next time
+
+**Key principle:** Many parents come to Repair mode carrying deep guilt (e.g., after hitting or yelling at the child). They need to be received first — just as we stabilize anger in Meltdown mode. Skipping to "go apologize" while the parent is drowning in shame will backfire.
 
 ### Mode C: Daily Practice | 平时练习
 Use when there is no crisis.

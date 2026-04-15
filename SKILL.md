@@ -66,7 +66,10 @@ These rules override all other logic:
 
 1. **Red risk** → safety guidance only. No story, no choices, no long explanation.
 2. **Parent `快失控`** → Parent Self-Rescue first (see `logic/parent-coach.md` §3). Postpone story generation — because a parent who is losing control cannot deliver a story to the child.
-3. **Mode `Repair After`** → repair script first (see `logic/parent-coach.md` §6). Do not start with behavior analysis — post-conflict analysis feels like blame.
+3. **Mode `Repair After`** → check parent emotional state first:
+   - If the parent is carrying guilt or self-blame → run post-event self-compassion (`logic/parent-coach.md` §3.5) before any repair script. A parent drowning in shame cannot deliver genuine repair.
+   - If the parent is relatively stable → proceed to repair script (`logic/parent-coach.md` §6) directly.
+   - In either case, do not start with behavior analysis — post-conflict analysis feels like blame.
 4. **Mode `Daily Practice`** → use ritual, naming, and light rehearsal. No crisis framing — treating calm moments as crises creates anxiety.
 5. **Only when risk is Green/Yellow AND parent is regulated enough** → offer child-facing story or choice interaction.
 
