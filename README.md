@@ -1,52 +1,56 @@
-# 摸摸头 (PatPat) | AI Co-Regulation Skill for Kids
+# 摸摸头 PatPat | 科学育儿教练
 
-**PatPat (摸摸头)** is an AI-powered co-regulation skill for children aged 3-8 and their parents. It helps families through emotional storms, post-conflict repair, and everyday emotional practice with a parent-first, child-supportive flow.
+<p align="center">
+  <strong>先托举家长，再托举孩子</strong><br>
+  <em>Support the parent first, then support the child</em>
+</p>
 
-「摸摸头 (PatPat)」是一款服务 3-8 岁儿童及家长的 AI 共同调节技能。它覆盖情绪爆发当下、事后修复、以及平时练习三个场景，目标是先托住家长，再托住孩子，帮助家庭形成可重复使用的情绪支持仪式。
-
----
-
-## ✨ Key Features | 核心特性
-
-- **Three entry modes (三大入口模式)**: `正在爆发` / `刚刚爆发完，想修复` / `平时练习`
-- **Minimal-input triage (低负担分流)**: Ask only age band, visible state, and parent regulation when needed.
-- **Parent-first coaching (家长优先托举)**: Fixed `Do now / Say now / Avoid now` scaffolding.
-- **Repeatable family ritual (固定家庭仪式)**: Emotion creature → body cue → one shared action → next step.
-- **Scenario-first guidance (场景优先)**: Common parenting moments map to emotional mechanisms without moralizing.
-- **Risk boundaries (风险边界)**: Green / Yellow / Red routing with safer escalation rules.
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
 
-## 🛠️ Repository Structure | 仓库结构
+## 🌏 Choose Your Language | 选择语言
 
-- `VISION.md`: Product vision, core philosophy, pain-point analysis, and experience design.
-- `SKILL.md`: Core instruction set for agent behavior and routing.
-- `logic/story-engine.md`: Mode-specific narrative rules, age bands, ritual structure, and output contract.
-- `logic/emotion-creatures.md`: Emotion-creature-body mapping plus scenario guidance.
-- `logic/parent-coach.md`: Canonical parent support guide and single source of truth for all normative parent-facing guidance.
+### 🇨🇳 中文版（推荐）
 
----
+**摸摸头** — 0-15 岁全场景科学育儿教练。覆盖情绪管理、行为引导、学习支持、社交问题、青春期沟通和家长成长六大场景。
 
-## 🤖 Usage | 如何使用
+👉 [**进入中文版** `zh-cn/`](zh-cn/)
 
-1. Ingest `SKILL.md` into the agent system prompt.
-2. Use the `logic/` files as the operational ruleset.
-3. Route each request into one of the three entry modes before generating content.
-4. Keep responses structured as: parent guidance → child content → shared action → next step.
-5. If a frontend needs structured rendering, map the same sections into JSON.
+### 🇬🇧 English
+
+**PatPat** — AI Co-Regulation Skill for children aged 3-8 and their parents. Covers emotional storms, post-conflict repair, and everyday emotional practice.
+
+👉 [**Enter English version** `en/`](en/)
 
 ---
 
-## 🎯 Product Intent | 产品意图
+## ✨ 核心特性 | Key Features
 
-PatPat is not here to replace parents or judge them.
-It is a lightweight emotional scaffolding tool that helps families:
-- get through hard moments with less shame
-- repair connection after conflict
-- practice emotional skills before the next storm
+- **四大年龄段 | Four Age Stages**: 🌱 0-3 → 🌿 3-6 → 🌳 6-12 → 🔥 12-15
+- **六大场景 | Six Scenes**: 情绪管理 / 行为引导 / 学习支持 / 社交问题 / 青春期沟通 / 家长成长
+- **三种时机 | Three Timings**: 正在发生 / 事后修复 / 日常预防
+- **家长优先 | Parent First**: 先稳住大人，再帮助孩子
+- **风险分级 | Risk Triage**: 🟢 绿色 / 🟡 黄色 / 🔴 红色三级安全边界
 
 ---
 
-## 📄 License | 开源协议
+## 🤖 如何使用 | Usage
+
+1. 选择对应语言版本的 `SKILL.md`，注入 AI 智能体的系统提示词中
+2. `logic/` 目录下的文件作为运行时规则集
+3. AI 将根据年龄、场景、时机自动路由，生成当下可用的指导
+
+---
+
+## 🎯 产品理念 | Philosophy
+
+「摸摸头」不是来替代家长或评判家长的。它是一个育儿支撑系统，帮助家庭在最需要的时候找到方法。
+
+> **目标是让家庭越来越不需要这个工具，而非越来越依赖它。**
+
+---
+
+## 📄 License
 
 MIT License. Copyright (c) 2026 gglinux.
